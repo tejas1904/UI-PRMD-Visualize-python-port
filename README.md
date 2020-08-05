@@ -50,7 +50,7 @@ it would be something like
 
 similarly it is same for the positions file
 
-as the angles are is e YXZ triplet of Euler angles we combine it with the positions and 
+as the angles are YXZ triplet of Euler angles we combine it with the positions and 
 after all operations the resulting and returned numpy array shape is [22 X 3 X frames]
 this is plotted as a skeleton in matplotlib
 
