@@ -66,4 +66,6 @@ Waist,Spine,Chest,Neck,Head,Head tip,Left Collar,Left Upper arm,Left for arm,Lef
 
 
 
-#### hope this port is useful to understand the dataset
+#### hope this port is useful to understand the dataset ####
+#### disclaimer i am not the creator or owner of this dataset i have merely visualized the data ####
+#### [get the data set and read more here](https://webpages.uidaho.edu/ui-prmd/)
