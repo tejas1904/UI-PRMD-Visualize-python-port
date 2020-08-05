@@ -64,7 +64,12 @@ depth is the frames the kinect used to capture data is 30FPS
 
 Waist,Spine,Chest,Neck,Head,Head tip,Left Collar,Left Upper arm,Left for arm,Left hand,Right collar,Right upper arm,Right forearm,Right hand,Left upper leg,Left lower leg,Left foot,Left leg toes Right upper leg,Right lower leg,Right foot
 
+*movemet list
 
+(a) Deep squat (m01); (b) Hurdle step (m02); (c) Inline
+lunge (m03); (d) Side lunge (m04); (e) Sit to stand (m05); (f) Standing active straight leg raise (m06);
+(g) Standing shoulder abduction (m07); (h) Standing shoulder extension (m08); (i) Standing shoulder
+internal-external rotation (m09); (j) Standing shoulder scaption (m10)
 
 #### hope this port is useful to understand the dataset ####
 #### disclaimer i am not the creator or owner of this dataset i have merely visualized the data ####
