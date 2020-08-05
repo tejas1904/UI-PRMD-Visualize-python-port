@@ -30,7 +30,7 @@ pip install celluloid
 
 ## examples
 
-![](grid_5.gif)
+![](images/ex.gif)
 
 
 ### data set and code explanation TLDR style ;)  ###
