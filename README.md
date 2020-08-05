@@ -55,7 +55,15 @@ after all operations the resulting and returned numpy array shape is [22 X 3 X f
 this is plotted as a skeleton in matplotlib
 
 the 3 columns represent the x,y,z values x-left, right y-up,down, z- in and out of screen
+
 each row is a joint
+
+depth is the frames the kinect used to capture data is 30FPS
+
+* joint list  
+
+Waist,Spine,Chest,Neck,Head,Head tip,Left Collar,Left Upper arm,Left for arm,Left hand,Right collar,Right upper arm,Right forearm,Right hand,Left upper leg,Left lower leg,Left foot,Left leg toes Right upper leg,Right lower leg,Right foot
+
 
 
 #### hope this port is useful to understand the dataset
