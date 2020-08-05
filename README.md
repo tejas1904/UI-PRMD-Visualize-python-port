@@ -30,7 +30,7 @@ pip install celluloid
 
 ## examples
 
-![a gif](images/grid 5.gif)
+![Image of device](images/grid 5.gif)
 
 ### data set and code explanation TLDR style ;)  ###
 within the segmented movements(download from website link) folder are many movements their positions and corresponding angles
