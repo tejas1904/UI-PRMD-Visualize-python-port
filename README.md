@@ -8,8 +8,8 @@ UI-PRMD is a data set of movements related to common exercises performed by pati
 * the paper contains code visualization of the movements written MATLAB which I found cumbersome use 
 I adapted the the code and implemented it in python 
 * for easy understanding of how the dataset is represented use this port
-* use it to convert the 2d dataset into a single cartesian cordinate
- represented data
+* use it to convert the 2 file dataset into a single 2D matrix of cartesian cordinates
+
 
 ## Requirements
 
