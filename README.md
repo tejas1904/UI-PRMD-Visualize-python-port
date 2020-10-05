@@ -29,9 +29,10 @@ pip install numpy
 pip install celluloid
 ```
 
-## examples(rendered in matplotlib)
+## examples
 
 ![](images/final.gif)
+(rendered in matplotlib)
 
 
 ### data set and code explanation TLDR style ;)  ###
