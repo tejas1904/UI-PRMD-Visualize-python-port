@@ -29,7 +29,7 @@ pip install numpy
 pip install celluloid
 ```
 
-## examples
+## examples(rendered in matplotlib)
 
 ![](images/final.gif)
 
