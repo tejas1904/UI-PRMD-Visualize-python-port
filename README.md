@@ -1,5 +1,6 @@
 # UI-PRMD-Visualize-python
-This is a python port and visualization of the UI-PRMD dataset/paper 
+This is a python port and visualization of the UI-PRMD dataset/paper
+This Port Is created for a project i am currently devloping which is in python hence a python port was necessary
 
 UI-PRMD is a data set of movements related to common exercises performed by patients in physical therapy and rehabilitation programs.
 
